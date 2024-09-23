@@ -1,19 +1,9 @@
-# Site settings
 title: "DNA Study Notes"
-email: "your-email@example.com"
-description: >-
-  A comprehensive resource for understanding DNA: structure, functions, and relation to RNA, mRNA, genes, and proteins.
-baseurl: "/dna-study" # This should be the repository name for GitHub Pages project sites
-url: "https://daveremy.github.io" # Your GitHub Pages URL
-twitter_username: your-twitter-handle
-github_username: daveremy
+description: "Comprehensive notes and resources for understanding DNA."
+baseurl: "/dna-study"  # Required for GitHub Pages
+url: "https://daveremy.github.io"  # GitHub Pages URL
+theme: minima
 
-# Build settings
-theme: jekyll-theme-cayman
+# Plugins
 plugins:
   - jekyll-feed
-
-# Exclude items from processing
-exclude:
-  - Gemfile
-  - Gemfile.lock

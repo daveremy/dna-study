@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: "Home"
 ---
 
 # Welcome to My DNA Study Notes
@@ -14,4 +14,4 @@ This site contains comprehensive notes and resources to help you understand DNA 
 - **Genes and Proteins**
 - **Central Dogma of Molecular Biology**
 
-Feel free to navigate through the topics to learn more!
+Feel free to explore the topics.
